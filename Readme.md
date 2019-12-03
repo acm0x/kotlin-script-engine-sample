@@ -1,6 +1,6 @@
 ### Kotlin DSL and Script Enging Example
 
-A simple project influenced by [![12 days of Kotlin - Day 02](https://kotlindays.com/2019/12/02/days-of-kotlin-a-dsl-for-everyone/index.html)] that shows
+A simple project influenced by [12 days of Kotlin - Day 02](https://kotlindays.com/2019/12/02/days-of-kotlin-a-dsl-for-everyone/index.html) that shows
 1. How can you build DSL with kotlin syntax sugar
 2. How can you make that DSL a JSON-like.
 ### Setup
